@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 
-1. Complete Ruby on Rails Developer
+1. Complete Ruby on Rails Developer by Mashrur Hossain
+2. First Test repo on the Completed Ruby on Rails Developer course by Mashrur Hossain
